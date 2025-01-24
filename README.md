@@ -1,6 +1,11 @@
 <h1 align="center">Heyo!!👋, I'm Aaron Daniel Go</h1>
 <h3 align="center">An upcoming Computer Science Graduate from DLSU!</h3>
+
+
 - 🌱 I’m currently learning SQL and Golang!
+
+- 💬 Ask me about Genshin Lore 
+
 - 📫 How to reach me: aaron_daniel_go@dlsu.edu.ph 
 
 
