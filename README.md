@@ -2,7 +2,7 @@
 <h3 align="center">An upcoming Computer Science Graduate from DLSU!</h3>
 
 
-- 🌱 I’m currently learning SQL and Golang!
+- 🌱 I’m currently learning Javascript and Golang!
 
 - 💬 Ask me about Genshin Lore 
 
