@@ -2,9 +2,9 @@
 <h3 align="center">An upcoming Computer Science Graduate from DLSU!</h3>
 
 
-- 🌱 I’m currently learning Javascript and Golang!
+- 🌱 I’m currently learning Test Driven Development and Defensive Programming [and loving it!]
 
-- 💬 Ask me about Genshin Lore 
+- 💬 Ask me about Umamusume 
 
 - 📫 How to reach me: aaron_daniel_go@dlsu.edu.ph 
 
